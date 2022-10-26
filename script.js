@@ -1,1 +1,1 @@
-dont use jquery
+// dont use jquery
